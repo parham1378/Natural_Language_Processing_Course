@@ -10,13 +10,13 @@ The assignments focuses on implementing various NLP techniques and algorithms to
     
   * Q2: LSTM vs GRU
 
-  This assignment focuses on training LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) models on the Sentiment140 dataset for sentiment analysis. The objective is to compare the performance of these models and evaluate their effectiveness in sentiment prediction. Two different embedding techniques, GloVe and one-hot encoding, are used to represent the text.
+    This assignment focuses on training LSTM (Long Short-Term Memory) and GRU (Gated Recurrent Unit) models on the Sentiment140 dataset for sentiment analysis. The objective is to compare the performance of these models and evaluate their effectiveness in sentiment prediction. Two different embedding techniques, GloVe and one-hot encoding, are used to represent the text.
 
 # CA4 - Transformers
   * Q1: ParsBERT 
   
-  The assignment involves analyzing the performance of ParsBERT, a state-of-the-art pre-trained language model specifically designed for Persian text, on the NLI task. We will explore the effects of modifying the architecture and adjusting various parameters of ParsBERT on its accuracy and overall performance.
+    The assignment involves analyzing the performance of ParsBERT, a state-of-the-art pre-trained language model specifically designed for Persian text, on the NLI task. We will explore the effects of modifying the architecture and adjusting various parameters of ParsBERT on its accuracy and overall performance.
   * Q2: Zero-Shot Learning
  
-  In this question, we aim to design a model that can measure the level of user satisfaction with the food ordered through Snapp Food using zero-shot learning.
+    In this question, we aim to design a model that can measure the level of user satisfaction with the food ordered through Snapp Food using zero-shot learning.
   
