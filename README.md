@@ -3,6 +3,8 @@ This repository contains the code and resources for the Natural Language Process
 
 The assignments focuses on implementing various NLP techniques and algorithms to solve a range of language processing tasks.
 
+# CA2 - Word Embedding and classification
+
 # CA3 - Sentiment Analysis using Recurrent Neural Networks
   * Q1: RNN
     
@@ -20,3 +22,4 @@ The assignments focuses on implementing various NLP techniques and algorithms to
  
      In this question, we aim to design a model that can measure the level of user satisfaction with the food ordered through Snapp Food using zero-shot learning.
   
+# CA5: Machine Translation - using Fairseq toolkit
